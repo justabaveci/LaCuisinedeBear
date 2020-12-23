@@ -1,0 +1,28 @@
+
+
+body {
+ background-image: url(images/pink.png);
+}
+
+h5 {
+	margin-top: 100px;
+}
+
+div {
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+}
+
+button {
+	border-radius: 20px;
+	border: solid 1px gray;
+	background: black;
+	color: white;
+	font-family: Veranda, Tahoma, sans-serif;
+	font-size: 24px;
+	width: 300px;
+	height: 100px;
+	margin-top: 20px;
+
+}
